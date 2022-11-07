@@ -1,5 +1,9 @@
 # :rocket: Workflow syntax
 [![first](https://github.com/sample-organizaton/syntax/actions/workflows/firstworkflow.yml/badge.svg)](https://github.com/sample-organizaton/syntax/actions/workflows/firstworkflow.yml)
+
+[![avworkflow](https://github.com/sample-organizaton/syntax/actions/workflows/myworkflow.yml/badge.svg)](https://github.com/sample-organizaton/syntax/actions/workflows/myworkflow.yml)
+
+
 Demo repository for basic GitHub Actions workflow syntax.
 
 :exclamation: **This is a template repository**
