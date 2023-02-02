@@ -1,4 +1,6 @@
 # :rocket: Workflow syntax
+[![levi](https://github.com/sample-organizaton/syntax/actions/workflows/new.yml/badge.svg)](https://github.com/sample-organizaton/syntax/actions/workflows/new.yml)
+
 [![first](https://github.com/sample-organizaton/syntax/actions/workflows/firstworkflow.yml/badge.svg)](https://github.com/sample-organizaton/syntax/actions/workflows/firstworkflow.yml)
 
 [![avworkflow](https://github.com/sample-organizaton/syntax/actions/workflows/myworkflow.yml/badge.svg)](https://github.com/sample-organizaton/syntax/actions/workflows/myworkflow.yml)
